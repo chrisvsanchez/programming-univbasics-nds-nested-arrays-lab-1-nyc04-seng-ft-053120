@@ -30,7 +30,7 @@ def assembled_matrix
        "Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"
      ]
    ]
-   storage_room
+   puts storage_room
 end
 
 def sorted_matrix
