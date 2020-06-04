@@ -48,7 +48,7 @@ def matrix_lookup(matrix, row, column)
     ORGANIC_PRODUCE
   ]
   matrix = storage_room[row][column]
-  matrix
+  return matrix
 end
 
 def matrix_update(matrix, row, column, new_value)
