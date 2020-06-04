@@ -38,7 +38,6 @@ def assembled_matrix
        "Asparagus"
      ] 
    ]
-   p storage_room
 end
 
 def sorted_matrix
